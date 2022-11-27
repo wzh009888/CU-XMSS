@@ -1,1 +1,1 @@
-# CU-XMSS
+XMSS GPU code
